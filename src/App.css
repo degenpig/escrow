@@ -1,0 +1,13 @@
+#modal {
+  display: none;
+  background-color: yellow;
+  border: 1px solid lightblue;
+  border-radius: 10px;
+}
+
+#showWithdraw{
+  display: none;
+}
+#space {
+  height: 50px;
+}
